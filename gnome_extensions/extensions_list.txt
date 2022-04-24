@@ -1,0 +1,11 @@
+https://extensions.gnome.org/extension/818/battery-percentage/
+https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+https://extensions.gnome.org/extension/3730/floating-dock/
+https://extensions.gnome.org/extension/3896/network-speed/
+https://extensions.gnome.org/extension/2182/noannoyance/
+https://extensions.gnome.org/extension/1677/public-ip/
+https://extensions.gnome.org/extension/7/removable-drive-menu/
+https://extensions.gnome.org/extension/3891/simple-monitor/
+https://extensions.gnome.org/extension/19/user-themes/
+https://extensions.gnome.org/extension/21/workspace-indicator/
