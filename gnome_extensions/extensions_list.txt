@@ -9,3 +9,4 @@ https://extensions.gnome.org/extension/7/removable-drive-menu/
 https://extensions.gnome.org/extension/3891/simple-monitor/
 https://extensions.gnome.org/extension/19/user-themes/
 https://extensions.gnome.org/extension/21/workspace-indicator/
+https://extensions.gnome.org/extension/1708/transparent-top-bar/
