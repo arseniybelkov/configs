@@ -3,4 +3,4 @@ Different config files for personal stuff
 
 
 ## Extensions:
-[Gnome](./gnome_extensions)
+[Gnome](./gnome_extensions/extensions_list.txt)
