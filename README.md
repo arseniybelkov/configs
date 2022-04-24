@@ -1,6 +1,6 @@
 # configs
-## Different config files for personal stuff
+Different config files for personal stuff
 
 
-### Extensions:
+## Extensions:
 [Gnome](./gnome_extensions)
